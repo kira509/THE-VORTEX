@@ -102,7 +102,7 @@ export default function App() {
           <span className="mr-3">🌪️</span>
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#7c3aed] to-[#06b6d4]">The Vortex</span>
         </h1>
-        <p className="mt-3 text-slate-300">Your private hangout — dark neon vibes.</p>
+        <p className="mt-3 text-slate-300">private beach party — let the part begin</p>
       </header>
 
       <main className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6">
